@@ -1,5 +1,8 @@
 # vue-sanctum
 
+## About Vue Sanctum
+Vue Sanctum is vue cli project in which laravel sanctum package is implemented.
+
 ## Project setup
 ```
 npm install
